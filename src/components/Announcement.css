@@ -1,0 +1,17 @@
+.ann_container {
+	text-align: center;
+	background: rgb(32, 35, 42);
+	padding: 16px;
+}
+
+.ann_text {
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
+}
+
+.ann_link {
+	margin-left: 8px;
+	color: #09d3ac;
+	text-decoration: underline;
+}
